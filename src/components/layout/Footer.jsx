@@ -5,7 +5,7 @@ export const Footer = () => {
         <div className="content_1">
           <img src="./images/logo.png" alt="logo" />
           <p>
-            Welcome to Thapa EcomStore, your ultimate destination for
+            Welcome to TushiiEcomStore, your ultimate destination for
             cutting-edge gadgets!
           </p>
           <img src="https://i.postimg.cc/Nj9dgJ98/cards.png" alt="cards" />
@@ -46,7 +46,7 @@ export const Footer = () => {
       </div>
       <div className="f-design">
         <div className="f-design-txt">
-          <p>Design and Code by Thapa Technical</p>
+          <p>Design and Code by TushiiTechnical</p>
         </div>
       </div>
     </footer>

@@ -968,3 +968,30 @@ footer {
   height: auto;
   max-width: 100%;
 }
+
+
+.logout-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.session-timer {
+  margin-left: 10px;
+  font-size: 14px;
+  color: gray;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
